@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Venura kaushan
 ======================================================================================================================================
 
-Software developer
+Software Engineer
 ------------------
 
-Hi there! My name is Venura Kaushan and I'm currently pursuing a B.Sc. (Hons) in Information Technology with a specialization in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT). As a software engineering student, I'm passionate about creating innovative and efficient solutions to real-world problems. My GitHub profile is a showcase of my projects, which range from small scripts to full-fledged web applications. I enjoy learning new technologies and collaborating with others to build impactful software. Feel free to explore my repositories and connect with me if you have any questions or feedback!
+Software Engineering graduate with a strong passion for building scalable and maintainable applications. Experienced in both frontend and backend development, with hands-on knowledge of monolithic and microservices architectures, as well as cloud computing. Currently working in a spec-driven development environment, taking end-to-end ownership of implementation, testing, and deployment
 
 * 🌍  I'm based in Colombo,Sri Lanka
 * ✉️  You can contact me at [venura218@gmail.com](mailto:venura218@gmail.com)
-* 🧠  I'm learning Data structures and algorithms, MERN Stack and kotlin
 
 ### Skills
 
